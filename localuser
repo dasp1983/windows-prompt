@@ -1,0 +1,1 @@
+set prompt=$E[37;90m┌─[$E[32;92m:)$E[37;90m]-[$E[37;40m%time:~0,8%$E[37;90m]-$E[37;95m[$E[37;31m%username%$E[37;96m@$E[32;92m%computername%$E[37;95m]$E[37;90m-[$E[40;96m$p$+$E[37;90m]$_└─$g$S$E[37;40m
