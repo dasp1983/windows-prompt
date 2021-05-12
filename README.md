@@ -1,6 +1,6 @@
 ## About:
 
-Commands to change Windows command prompt. For all users, or just to the local user.
+Commands to change Windows command prompt. For all users, or just for the local user.
 
 ## Screenshot:
 
